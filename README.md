@@ -1,1 +1,1 @@
-# Weather-detecting-project
+# Weather-detecting api-project
